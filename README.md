@@ -1,6 +1,6 @@
 ## Yuri Updates
 
-Added real data into the Data and Dataset folders, which uses 15 min EUR/USD FX rates. My test PnL is under the Dataset, which shows a generally negative result.
+Added real data into the Data and Dataset folders, which uses 15 min EUR/USD FX rates. My test PnL is under the Dataset folder, which shows a generally negative result.
 
 ## Deep Reinforcement Learning for financial trading using keras-rl
 
