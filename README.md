@@ -1,6 +1,6 @@
 ## Yuri Updates
 
-Added real data into the Data and Dataset folders, which uses 15 min EUR/USD FX rates. My test PnL is under the Dataset folder, which shows a generally negative result.
+Added real data into the [Data](https://github.com/ScrapeWithYuri/trading-rl/tree/master/trading_agent/Data) and [Dataset](https://github.com/ScrapeWithYuri/trading-rl/tree/master/trading_agent/Dataset) folders, which uses 15 min EUR/USD FX rates. My test PnL is under the [Dataset](https://github.com/ScrapeWithYuri/trading-rl/tree/master/trading_agent/Dataset) folder, which shows a generally negative result.
 
 ## Deep Reinforcement Learning for financial trading using keras-rl
 
